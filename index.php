@@ -13,6 +13,10 @@ and open the template in the editor.
         <?php
         // put your code here
         echo 'Hello github Praepan1234';
+        echo '<hr>';
+        
+        $srr=['delphi','php','java','javascip'];
+        print_r($srr);
         ?>
     </body>
 </html>
